@@ -61,7 +61,7 @@ input, button, #inner {
 }
 
 #winner {
-    padding-top: 80px;
+    padding-top: 50px;
 }
 
 @media screen and (max-width: 970px) {
