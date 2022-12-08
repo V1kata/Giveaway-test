@@ -10,7 +10,7 @@ body {
     justify-content: center;
     display: flex;
     overflow: hidden;
-    background-image: url('./giveaway.png');
+    background-image: url('giveaway.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     color: rgba(0, 0, 0, 0.87);
